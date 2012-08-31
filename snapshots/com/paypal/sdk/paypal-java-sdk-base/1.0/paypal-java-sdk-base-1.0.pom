@@ -6,6 +6,8 @@
 	<artifactId>paypal-java-sdk-base</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
+	<name>paypal-java-sdk-base</name>
+	<url>http://maven.apache.org</url>
 
 	<dependencies>
 		<dependency>
